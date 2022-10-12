@@ -1,8 +1,9 @@
-.secondDiv{
+.thirdDiv{
     width: 400px;
     height: 400px;
-    background-color: darkgreen;
-    font-size: larger;
+    background-color: rgb(118, 35, 111);
     font-weight: 900;
+    font-size: larger;
     margin: auto;
+
 }

@@ -1,4 +1,4 @@
-
+import './Cardtwo.css'
 
 function Cardtwo(){
 
